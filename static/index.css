@@ -1,0 +1,39 @@
+#container{
+    width: 1200px;
+    height: auto;
+    padding: 20px;
+    margin: auto;
+}
+.tasks{
+    width: 202px;
+    height: 250px;
+    text-align: center;
+    display: inline-block;
+    margin: 15px;
+    border: 1px solid black;
+    vertical-align: top;
+}
+.tasks p{
+    height: 40px;
+    padding: 0 5px;
+}
+p span{
+    width: 150px;
+    /*border: 1px solid black;*/
+    padding: 2px, 50px;
+}
+.button{
+    margin-top: 30px;
+    padding: 0;
+}
+#activity{
+    width: 1100px;
+    height: 350px;
+    overflow-y: auto;
+    border: 1px solid black;
+    margin: 1em auto;
+}
+#activity p{
+    padding: 0 15px;
+    margin: 8px 0 0;
+}
